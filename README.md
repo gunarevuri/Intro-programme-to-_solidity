@@ -23,3 +23,4 @@ contract Mycontract {
 
 which having just a small code get and set functions 
 both functions which we defined above are public any one can use that function.
+Compiler Version is "version:0.4.25+commit.59dbf8f1.Emscripten.clang".
